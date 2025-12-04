@@ -17,7 +17,7 @@ JavaScript | TypeScript | React | Next.js | Node.js | Express | MongoDB | REST A
 
 ## 💻 Featured Projects
 
-### 🔹[**Podorozhnyky Frontend**](https://nextjs-project-team-1-podorozhnyky.vercel.app/)[**Podorozhnyky Backend**](https://node-js-project-team-1.onrender.com/api-docs/)
+### 🔹[**Podorozhnyky Frontend**](https://nextjs-project-team-1-podorozhnyky.vercel.app/) [**Podorozhnyky Backend**](https://node-js-project-team-1.onrender.com/api-docs/)
 
 A fullstack web application that allows travellers to browse, filter, and create travel stories, save favourites, and manage personal profiles.  
 Built as a collaborative team project following Agile/Scrum methodology.
