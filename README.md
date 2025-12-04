@@ -1,30 +1,67 @@
-## 👋 Hi, I'm Mariana Koval.
+## 👋 Hi, I'm Mariana Koval
 
-Junior Fullstack Developer | React | Node.js
+## Junior Fullstack Developer | React | Node.js
 
-Fullstack developer with experience in JavaScript, React, Next.js, Node.js, and MongoDB. Experienced in creating single-page applications (SPA), integrating REST API, and implementing responsive and adaptive user interface components. Experience working in an Agile/Scrum environment, adhering to best practices in coding, version control (Git), and performance optimisation techniques. Strong problem-solving skills and a proactive approach to developing scalable web solutions.
+Fullstack developer with experience in JavaScript, React, Next.js, Node.js, and MongoDB.  
+Skilled in building single-page applications (SPA), integrating REST APIs, and developing responsive user interfaces.  
+Familiar with Agile/Scrum workflows, version control (Git), and performance optimisation practices.  
+Proactive problem solver with a strong focus on clean, scalable, and maintainable code.
 
-🧰 Tech Stack
-JavaScript | TypeScript | React | Next.js | Node.js | Express | MongoDB | REST API | Vite | SASS
+---
 
-💻Featured Projects
+## 🧰 Tech Stack
 
-### 🔹 [Podorozhnyky frontend](https://nextjs-project-team-1-podorozhnyky.vercel.app/), [Podorozhnyky backend](https://node-js-project-team-1.onrender.com/api-docs/) – fullstack web application that allows travellers to browse, filter and create travel stories, save favourites, and manage personal profiles. Built as a collaborative team project following Agile/Scrum methodology. Tech stack: Next.js, TypeScript, React, Node.js, Express, MongoDB, REST API, Zustand. Role: Fullstack Developer
+JavaScript | TypeScript | React | Next.js | Node.js | Express | MongoDB | REST API | TanStack Query | Zustand | Vite | SASS
 
-### 🔹 [NoteHub](https://github.com/Mariana331/notehub) – is an application for saving, creating, deleting and searching notes.
+---
 
-It implements full system authentication (registration, login, profile), secure routes, state management via Zustand, and data retrieval via TanStack Query. 🔗 Live Demo:https://09-auth-blue-seven.vercel.app/
+## 💻 Featured Projects
 
-### 🔹 [Vanilla App Template](https://github.com/Mariana331/vanilla-app-template)
+### 🔹 **Podorozhnyky — Fullstack Web Application**
 
-– a responsive landing page for a company involved in eco-products developed in a team, with a focus on responsive design and semantic HTML. Built using HTML5, CSS3 (SASS), JavaScript and Vite.is a responsive web application that allows users to search and browse images by keyword.
-The application retrieves data from the Pixabay API and displays it in a dynamic gallery with lightbox support and a user notification system. 🔗 Live Demo:https://mariana331.github.io/goit-js-hw-12/
+Frontend: https://nextjs-project-team-1-podorozhnyky.vercel.app/  
+Backend: https://node-js-project-team-1.onrender.com/api-docs/
 
-🗣️ Languages
+A fullstack web application that allows travellers to browse, filter, and create travel stories, save favourites, and manage personal profiles.  
+Built as a collaborative team project following Agile/Scrum methodology.
 
-![English](https://img.shields.io/badge/English-B1-pink?style=flat-square)
+**Tech stack:** Next.js, TypeScript, React, Node.js, Express, MongoDB, REST API, Zustand  
+**Role:** Fullstack Developer
+
+---
+
+### 🔹 **NoteHub**
+
+GitHub: https://github.com/Mariana331/notehub  
+Live Demo: https://09-auth-blue-seven.vercel.app/
+
+A notes management application for creating, editing, deleting, and searching notes.  
+Includes full authentication (registration, login, profile), secure routes, state management via Zustand, and data fetching via TanStack Query.
+
+---
+
+### 🔹 **SearchImages — Image Search App**
+
+GitHub: https://github.com/Mariana331/vanilla-app-template  
+Live Demo: https://mariana331.github.io/goit-js-hw-12/
+
+A responsive web application that allows users to search and browse images by keyword.  
+Fetches data from the Pixabay API and displays images in a dynamic gallery with lightbox and notifications.
+
+**Tech stack:** HTML, CSS (SASS), JavaScript, Axios, REST API, Vite
+
+---
+
+## 🗣️ Languages
+
+![English](https://img.shields.io/badge/English-B1-brown?style=flat-square)
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-red?style=flat-square)
-![Estonian](https://img.shields.io/badge/Estonian-A1-brown?style=flat-square)
+![Estonian](https://img.shields.io/badge/Estonian-A1-pink?style=flat-square)
 
-📫 How to reach me:  
-[LinkedIn](https://www.linkedin.com/in/mariana-koval-fullstack-developer/) | [Telegram](@mariana_34123) | [Email](mailto:m.koval000@gmail.com)
+---
+
+## 📫 How to reach me
+
+[LinkedIn](https://www.linkedin.com/in/mariana-koval-fullstack-developer/) •  
+[Telegram](https://t.me/mariana_34123) •  
+[Email](mailto:m.koval000@gmail.com)
