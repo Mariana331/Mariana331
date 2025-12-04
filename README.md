@@ -34,10 +34,10 @@ Includes full authentication (registration, login, profile), secure routes, stat
 
 **Tech stack:** Next.js (App Router), TypeScript, React, TanStack Query, Zustand, CSS Modules, REST API, Vercel
 
-### 🔹 [**App-Vanilla**](https://github.com/Mariana331/app-vanilla)
+### 🔹 [**App-Vanilla**](https://github.com/Mariana331/goit-js-hw-12)
 
 A responsive web application that allows users to search and browse images by keyword.  
-Fetches data from the Pixabay API and displays images in a dynamic gallery with lightbox and notifications. Live Demo: [🔗](https://mariana331.github.io/app-vanilla/)
+Fetches data from the Pixabay API and displays images in a dynamic gallery with lightbox and notifications. Live Demo: [🔗](https://mariana331.github.io/goit-js-hw-12/)
 
 **Tech stack:** HTML, CSS (SASS), JavaScript, Axios, REST API, Vite
 
