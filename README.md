@@ -17,10 +17,7 @@ JavaScript | TypeScript | React | Next.js | Node.js | Express | MongoDB | REST A
 
 ## 💻 Featured Projects
 
-### 🔹 **Podorozhnyky — Fullstack Web Application**
-
-[Frontend](https://nextjs-project-team-1-podorozhnyky.vercel.app/)  
-[Backend](https://node-js-project-team-1.onrender.com/api-docs/)
+### 🔹[**Podorozhnyky Frontend**](https://nextjs-project-team-1-podorozhnyky.vercel.app/)[**Podorozhnyky Backend**](https://node-js-project-team-1.onrender.com/api-docs/)
 
 A fullstack web application that allows travellers to browse, filter, and create travel stories, save favourites, and manage personal profiles.  
 Built as a collaborative team project following Agile/Scrum methodology.
@@ -32,20 +29,15 @@ Built as a collaborative team project following Agile/Scrum methodology.
 
 ### 🔹 [**NoteHub**](https://github.com/Mariana331/notehub)
 
-Live Demo: [🔗](https://09-auth-blue-seven.vercel.app/)
-
 A notes management application for creating, editing, deleting, and searching notes.  
-Includes full authentication (registration, login, profile), secure routes, state management via Zustand, and data fetching via TanStack Query.
+Includes full authentication (registration, login, profile), secure routes, state management via Zustand, and data fetching via TanStack Query.Live Demo: [🔗](https://09-auth-blue-seven.vercel.app/)
 
----
+**Tech stack:** Next.js (App Router), TypeScript, React, TanStack Query, Zustand, CSS Modules, REST API, Vercel
 
-### 🔹 **App-Vanilla — Image Search App**
-
-GitHub: https://github.com/Mariana331/app-vanilla  
-Live Demo: [🔗] (https://mariana331.github.io/app-vanilla/)
+### 🔹 [**App-Vanilla**](https://github.com/Mariana331/app-vanilla)
 
 A responsive web application that allows users to search and browse images by keyword.  
-Fetches data from the Pixabay API and displays images in a dynamic gallery with lightbox and notifications.
+Fetches data from the Pixabay API and displays images in a dynamic gallery with lightbox and notifications. Live Demo: [🔗](https://mariana331.github.io/app-vanilla/)
 
 **Tech stack:** HTML, CSS (SASS), JavaScript, Axios, REST API, Vite
 
