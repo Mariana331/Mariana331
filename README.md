@@ -19,7 +19,6 @@ Proactive problem solver with a strong focus on clean, scalable, and maintainabl
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=api&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
