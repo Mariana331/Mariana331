@@ -31,11 +31,11 @@ Proactive problem solver with a strong focus on clean, scalable, and maintainabl
 
 [**Frontend**](https://nextjs-project-team-1-podorozhnyky.vercel.app/) [**Backend**](https://node-js-project-team-1.onrender.com/api-docs/)
 
-A fullstack web application that allows travellers to browse, filter, and create travel stories, save favourites, and manage personal profiles.  
-Built as a collaborative team project following Agile/Scrum methodology.
+A team-based fullstack web application that allows travellers to browse, filter, and create travel stories, save favourites, and manage personal profiles.
+Built collaboratively by a team following Agile/Scrum methodology.
 
-**Tech stack:** Next.js, TypeScript, React, Node.js, Express, MongoDB, REST API, Zustand  
-**Role:** Fullstack Developer
+Tech stack: Next.js, TypeScript, React, Node.js, Express, MongoDB, REST API, Zustand
+Role: Fullstack Developer (team project)
 
 ---
 
