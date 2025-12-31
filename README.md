@@ -29,12 +29,14 @@ Proactive problem solver with a strong focus on clean, scalable, and maintainabl
 
 ### 🔹**Podorozhnyky**
 
-[**Frontend**](https://nextjs-project-team-1-podorozhnyky.vercel.app/) [**Backend**](https://node-js-project-team-1.onrender.com/api-docs/)
+[**Frontend**](https://github.com/AlexNovickiy/nextjs-project-team-1-podorozhnyky) [**Backend**](https://github.com/AlexNovickiy/node-js-project-team-1)
 
-A team-based fullstack web application that allows travellers to browse, filter, and create travel stories, save favourites, and manage personal profiles.
-Built collaboratively by a team following Agile/Scrum methodology.
+A team-based fullstack web application that allows travellers to browse, filter, and create travel stories, save favorites, and manage personal profiles.
+Built collaboratively by a team following Agile/Scrum methodology..
+Live Demo: [🔗](https://nextjs-project-team-1-podorozhnyky.vercel.app/)
+Live Demo: [🔗](https://node-js-project-team-1.onrender.com/api-docs/)
 
-Tech stack: Next.js, TypeScript, React, Node.js, Express, MongoDB, REST API, Zustand
+**Tech stack:** Next.js, TypeScript, React, Node.js, Express, MongoDB, REST API, Zustand
 Role: Fullstack Developer (team project)
 
 ---
