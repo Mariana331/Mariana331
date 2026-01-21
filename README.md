@@ -43,7 +43,7 @@ Role: Fullstack Developer (team project)
 
 ### 🔹 [**Nanny.Services**](https://github.com/Mariana331/app-nannies-services)
 
-Nanny.Services is a web application designed to help families find nannies, browse profiles, save favorites, and request meetings.
+Nanny.Services is an application designed to help families find nannies, browse profiles, save favorites, and request meetings.
 Built with React + TypeScript, Firebase Auth, and React Query for efficient data handling. Live Demo: [🔗](https://app-nannies-services.vercel.app/)
 
 **Tech stack:** React, React Router, React Query, Firebase, Context API, LocalStorage, CSS Modules, Axios
