@@ -25,6 +25,23 @@ Proactive problem solver with a strong focus on clean, scalable, and maintainabl
 
 ---
 
+### 🔹 [**PetLove**](https://github.com/Mariana331/petLove)
+
+PetLove is an application designed to help users browse pets, save favorites, view details, add their own pets, read news, and manage their profile. Built with React + TypeScript, and React Query for efficient data handling. [Live Demo: 🔗](https://pet-love-liart.vercel.app/)
+
+**Tech stack:** React, React Router, React Query, Zustand, Swagger, API, LocalStorage, CSS Modules, Axios
+
+---
+
+### 🔹 [**Nanny.Services**](https://github.com/Mariana331/app-nannies-services)
+
+Nanny.Services is an application designed to help families find nannies, browse profiles, save favorites, and request meetings.
+Built with React + TypeScript, Firebase Auth, and React Query for efficient data handling. [Live Demo: 🔗](https://app-nannies-services.vercel.app/)
+
+**Tech stack:** React, React Router, React Query, Firebase, Context API, LocalStorage, CSS Modules, Axios
+
+---
+
 ## 💻 Featured Projects
 
 ### 🔹**Podorozhnyky**
@@ -33,34 +50,25 @@ Proactive problem solver with a strong focus on clean, scalable, and maintainabl
 
 A team-based fullstack web application that allows travellers to browse, filter, and create travel stories, save favorites, and manage personal profiles.
 Built collaboratively by a team following Agile/Scrum methodology..
-Live Demo: [🔗](https://nextjs-project-team-1-podorozhnyky.vercel.app/)
-Live Demo: [🔗](https://node-js-project-team-1.onrender.com/api-docs/)
+[Live Demo: 🔗](https://nextjs-project-team-1-podorozhnyky.vercel.app/)
+[Live Demo: 🔗](https://node-js-project-team-1.onrender.com/api-docs/)
 
 **Tech stack:** Next.js, TypeScript, React, Node.js, Express, MongoDB, REST API, Zustand
 Role: Fullstack Developer (team project)
 
 ---
 
-### 🔹 [**Nanny.Services**](https://github.com/Mariana331/app-nannies-services)
-
-Nanny.Services is an application designed to help families find nannies, browse profiles, save favorites, and request meetings.
-Built with React + TypeScript, Firebase Auth, and React Query for efficient data handling. Live Demo: [🔗](https://app-nannies-services.vercel.app/)
-
-**Tech stack:** React, React Router, React Query, Firebase, Context API, LocalStorage, CSS Modules, Axios
-
----
-
 ### 🔹 [**NoteHub**](https://github.com/Mariana331/notehub)
 
 A notes management application for creating, editing, deleting, and searching notes.  
-Includes full authentication (registration, login, profile), secure routes, state management via Zustand, and data fetching via TanStack Query.Live Demo: [🔗](https://09-auth-blue-seven.vercel.app/)
+Includes full authentication (registration, login, profile), secure routes, state management via Zustand, and data fetching via TanStack Query.[Live Demo: 🔗](https://09-auth-blue-seven.vercel.app/)
 
 **Tech stack:** Next.js (App Router), TypeScript, React, TanStack Query, Zustand, CSS Modules, REST API, Vercel
 
 ### 🔹 [**App-Vanilla**](https://github.com/Mariana331/goit-js-hw-12)
 
 A responsive web application that allows users to search and browse images by keyword.  
-Fetches data from the Pixabay API and displays images in a dynamic gallery with lightbox and notifications. Live Demo: [🔗](https://mariana331.github.io/goit-js-hw-12/)
+Fetches data from the Pixabay API and displays images in a dynamic gallery with lightbox and notifications. [Live Demo: 🔗](https://mariana331.github.io/goit-js-hw-12/)
 
 **Tech stack:** HTML, CSS (SASS), JavaScript, Axios, REST API, Vite
 
