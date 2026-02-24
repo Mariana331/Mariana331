@@ -49,7 +49,7 @@ Built with React + TypeScript, Firebase Auth, and React Query for efficient data
 [**Frontend**](https://github.com/AlexNovickiy/nextjs-project-team-1-podorozhnyky) [**Backend**](https://github.com/AlexNovickiy/node-js-project-team-1)
 
 A team-based fullstack web application that allows travellers to browse, filter, and create travel stories, save favorites, and manage personal profiles.
-Built collaboratively by a team following Agile/Scrum methodology..
+Built collaboratively by a team following Agile/Scrum methodology.
 [Live Demo: 🔗](https://nextjs-project-team-1-podorozhnyky.vercel.app/)
 [Live Demo: 🔗](https://node-js-project-team-1.onrender.com/api-docs/)
 
