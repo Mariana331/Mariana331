@@ -22,6 +22,8 @@ Proactive problem solver with a strong focus on clean, scalable, and maintainabl
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
+## 💻 Featured Projects
+
 ---
 
 ### 🔹 [**PetLove**](https://github.com/Mariana331/petLove)
@@ -40,8 +42,6 @@ Built with React + TypeScript, Firebase Auth, and React Query for efficient data
 **Tech stack:** React, React Router, React Query, Firebase, Context API, LocalStorage, CSS Modules, Axios
 
 ---
-
-## 💻 Featured Projects
 
 ### 🔹**Podorozhnyky**
 
