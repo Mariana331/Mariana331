@@ -74,6 +74,8 @@ Includes full authentication (registration, login, profile), secure routes, stat
 
 **Tech stack:** Next.js (App Router), TypeScript, React, TanStack Query, Zustand, CSS Modules, REST API, Vercel
 
+---
+
 ### 🔹 [**App-Vanilla**](https://github.com/Mariana331/goit-js-hw-12)
 
 A responsive web application that allows users to search and browse images by keyword.  
