@@ -26,6 +26,16 @@ Proactive problem solver with a strong focus on clean, scalable, and maintainabl
 
 ---
 
+### 🔹 **E-Pharmacy**
+
+[**Frontend**](https://github.com/Mariana331/e-pharmacy) [**Backend**](https://github.com/Mariana331/e-pharmacy-node.js)
+
+A web platform for online pharmacy franchise management. Built with Next.js, it provides a full-featured interface for pharmacy owners to manage their stores, medicine catalogue, and view business statistics. [Live Demo: 🔗](https://e-pharmacy-two.vercel.app/), [Live Demo: 🔗](https://e-pharmacy-node-js.onrender.com/api-docs/)
+
+**Tech stack:** Next.js, TypeScript, React, Node.js, Express, MongoDB, REST API, Zustand
+
+---
+
 ### 🔹 [**PetLove**](https://github.com/Mariana331/petLove)
 
 PetLove is an application designed to help users browse pets, save favorites, view details, add their own pets, read news, and manage their profile. Built with React + TypeScript, and React Query for efficient data handling. [Live Demo: 🔗](https://pet-love-liart.vercel.app/)
