@@ -32,7 +32,7 @@ Proactive problem solver with a strong focus on clean, scalable, and maintainabl
 
 A web platform for online pharmacy franchise management. Built with Next.js, it provides a full-featured interface for pharmacy owners to manage their stores, medicine catalogue, and view business statistics. [Live Demo: 🔗](https://e-pharmacy-two.vercel.app/), [Live Demo: 🔗](https://e-pharmacy-node-js.onrender.com/api-docs/)
 
-**Tech stack:** Next.js, TypeScript, React, Node.js, Express, MongoDB, REST API, Zustand
+**Tech stack:** Next.js, TypeScript, React, Node.js, Express, MongoDB, REST API, Zustand, Module CSS
 
 ---
 
