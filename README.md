@@ -26,7 +26,7 @@ Proactive problem solver with a strong focus on clean, scalable, and maintainabl
 
 ---
 
-### 🔹 **E-Pharmacy**
+### 🔹 [**E-Pharmacy**](https://github.com/Mariana331/e-pharmacy)
 
 [**Frontend**](https://github.com/Mariana331/e-pharmacy) [**Backend**](https://github.com/Mariana331/e-pharmacy-node.js)
 
@@ -53,7 +53,7 @@ Built with React + TypeScript, Firebase Auth, and React Query for efficient data
 
 ---
 
-### 🔹**Podorozhnyky**
+### 🔹[**Podorozhnyky**](https://github.com/AlexNovickiy/nextjs-project-team-1-podorozhnyky)
 
 [**Frontend**](https://github.com/AlexNovickiy/nextjs-project-team-1-podorozhnyky) [**Backend**](https://github.com/AlexNovickiy/node-js-project-team-1)
 
