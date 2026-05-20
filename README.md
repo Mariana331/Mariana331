@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Mariana Koval
 
-## Junior Fullstack Developer | React | Node.js
+## Junior Fullstack Developer & AI Automation Engineer | Java Script, React, Next.js, Node.js, n8n, OpenAI, Telegram bots
 
 Fullstack developer with experience in JavaScript, React, Next.js, Node.js, and MongoDB.  
 Skilled in building single-page applications (SPA), integrating REST APIs, and developing responsive user interfaces.  
@@ -13,14 +13,18 @@ Proactive problem solver with a strong focus on clean, scalable, and maintainabl
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=api&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/React-E6C3C8?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-8B5E3C?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-E6C3C8?style=for-the-badge&logo=node.js&logoColor=black)
+![Express](https://img.shields.io/badge/Express-8B5E3C?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-E6C3C8?style=for-the-badge&logo=mongodb&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-8B5E3C?style=for-the-badge&logo=api&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-E6C3C8?style=for-the-badge&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-8B5E3C?style=for-the-badge&logo=vite&logoColor=white)
+
+![n8n](https://img.shields.io/badge/n8n-8B5E3C?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-E6C3C8?style=for-the-badge&logo=openai&logoColor=black)
+![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-8B5E3C?style=for-the-badge&logo=telegram&logoColor=white)
 
 ## 💻 Featured Projects
 
@@ -76,25 +80,52 @@ Includes full authentication (registration, login, profile), secure routes, stat
 
 ---
 
-### 🔹 [**App-Vanilla**](https://github.com/Mariana331/goit-js-hw-12)
+## 🤖 AI Automation Projects
 
-A responsive web application that allows users to search and browse images by keyword.  
-Fetches data from the Pixabay API and displays images in a dynamic gallery with lightbox and notifications. [Live Demo: 🔗](https://mariana331.github.io/goit-js-hw-12/)
+### 🔹 [**AI Automation Workflows (n8n)**](https://github.com/Mariana331/ai-automation-workflows)
 
-**Tech stack:** HTML, CSS (SASS), JavaScript, Axios, REST API, Vite
+A collection of AI-powered automation workflows built with n8n and external AI APIs.
+
+Includes:
+
+- 🎤 Creator_image_bot (Telegram + AssemblyAI + DALLE)
+- 📋 Task\_ manager_AI_Agent (Telegram + Google Sheets + AI agent)
+- 🌍 Translator_smart_bot (AI translation system)
+
+This project focuses on end-to-end automation pipelines, AI agents, and API integrations.
+
+**Tech stack:** n8n, OpenAI API, Telegram Bots, AssemblyAI, Google Sheets, DALLE
 
 ---
 
+### 🔹 [**MedOrder AI automation**](https://github.com/Mariana331/med-order-ai-automation)
+
+MedOrder AI is an intelligent automation system designed for pharmaceutical warehouses and medical suppliers that handle a high volume of phone-based orders.
+
+🧠 Key Features
+
+🏥 Medical order extraction (drugs, quantities, pharmacy data)
+🎧 Call transcription (AssemblyAI)
+🧠 AI order interpretation (OpenAI)
+📊 Call analytics dashboard (AI Agent)
+📦 Google Sheets integration
+🔁 Fully automated n8n workflows
+
+**Tech stack:**
+
+Technologies
+n8n, OpenAI API, AssemblyAI, Google Sheets API, JavaScript, JSON, HTTP Webhooks, AI Agents
+
 ## 🗣️ Languages
 
-![English](https://img.shields.io/badge/English-B1-brown?style=flat-square)
-![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-red?style=flat-square)
-![Estonian](https://img.shields.io/badge/Estonian-A1-pink?style=flat-square)
+![English](https://img.shields.io/badge/English-B1-E6C3C8?style=for-the-badge&logoColor=black)
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-8B5E3C?style=for-the-badge&logoColor=white)
+![Estonian](https://img.shields.io/badge/Estonian-A1-E6C3C8?style=for-the-badge&logoColor=black)
 
 ---
 
 ## 📫 How to reach me
 
-[LinkedIn](https://www.linkedin.com/in/mariana-koval-fullstack-developer/)  
-[Telegram](https://t.me/mariana_34123)  
-[Email](mailto:m.koval000@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5E3C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-koval-fullstack-developer/)  
+[![Telegram](https://img.shields.io/badge/Telegram-E6C3C8?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/mariana_34123)  
+[![Email](https://img.shields.io/badge/Email-8B5E3C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.koval000@gmail.com)
