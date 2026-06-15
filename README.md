@@ -127,5 +127,5 @@ n8n, OpenAI API, AssemblyAI, Google Sheets API, JavaScript, JSON, AI Agents
 ## 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5E3C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-koval-fullstack-developer/)  
-[![Telegram](https://img.shields.io/badge/Telegram-E6C3C8?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/mariana_34123)  
+[![Telegram](https://img.shields.io/badge/Telegram-E6C3C8?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/@Meria_na)  
 [![Email](https://img.shields.io/badge/Email-8B5E3C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.koval000@gmail.com)
