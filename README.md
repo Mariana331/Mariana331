@@ -114,7 +114,7 @@ MedOrder AI is an intelligent automation system designed for pharmaceutical ware
 **Tech stack:**
 
 Technologies:
-n8n, OpenAI API, AssemblyAI, Google Sheets API, JavaScript, JSON, AI Agents
+n8n, OpenAI API, AssemblyAI, Google Sheets API, JavaScript, AI Agents
 
 ## 🗣️ Languages
 
