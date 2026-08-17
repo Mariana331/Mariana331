@@ -30,6 +30,16 @@ Proactive problem solver with a strong focus on clean, scalable, and maintainabl
 
 ---
 
+### 🔹 [**DriveSafely**](https://github.com/Mariana331/drive-safely)
+
+[**Frontend**](https://github.com/Mariana331/drive-safely) [**Backend**](https://github.com/Mariana331/drive-safely-node.js)
+
+AI-powered road safety platform that helps drivers analyze road situations, identify potential traffic violations, learn traffic rules, and improve their driving knowledge. Developed a full-stack application with authentication, protected routes, user profiles, saved rules, favourites, learning progress, practice tests, and an AI assistant. Implemented responsive UI, multilingual support, REST API integration, traffic rules search and categorization, and AI-powered analysis of driving situations. [Live Demo: 🔗](https://drive-safely.vercel.app/), [Live Demo: 🔗](https://drive-safely-node-js-1.onrender.com/api-docs/)
+
+**Tech stack:** Next.js, TypeScript, React, Node.js, Express, MongoDB, REST API, Zustand, AI/LLM, Vercel
+
+---
+
 ### 🔹 [**E-Pharmacy**](https://github.com/Mariana331/e-pharmacy)
 
 [**Frontend**](https://github.com/Mariana331/e-pharmacy) [**Backend**](https://github.com/Mariana331/e-pharmacy-node.js)
