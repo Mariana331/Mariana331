@@ -81,15 +81,6 @@ Role: Fullstack Developer (team project)
 
 ---
 
-### 🔹 [**NoteHub**](https://github.com/Mariana331/notehub)
-
-A notes management application for creating, editing, deleting, and searching notes.  
-Includes full authentication (registration, login, profile), secure routes, state management via Zustand, and data fetching via TanStack Query.[Live Demo: 🔗](https://09-auth-blue-seven.vercel.app/)
-
-**Tech stack:** Next.js (App Router), TypeScript, React, TanStack Query, Zustand, CSS Modules, REST API, Vercel
-
----
-
 ## 🤖 AI Automation Projects
 
 ### 🔹 [**AI Automation Workflows (n8n)**](https://github.com/Mariana331/ai-automation-workflows)
